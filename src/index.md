@@ -11,5 +11,6 @@ layout: base.njk
 hello
 
 ## Cat of the Day
+This is a <mark>paragraph</mark>
 
 <img src="{{ catpic }}" />
